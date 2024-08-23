@@ -30,6 +30,7 @@ kind create cluster --config meu-primeiro-cluster.yaml
 ```
 
 # Create meu-primeiro-pod.yaml file
+*Arquivo corrigido, o do desafio vem com alguns erros propositais*
 ```
 cat <<EOT > /root/meu-primeiro-pod.yaml
 apiVersion: v1
